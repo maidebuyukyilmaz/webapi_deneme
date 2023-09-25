@@ -1,0 +1,190 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\maide\\source\\repos\\WebApplication2\\bsStoreApp\\services\\services.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\maide\\source\\repos\\WebApplication2\\bsStoreApp\\entities\\entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\maide\\source\\repos\\WebApplication2\\bsStoreApp\\entities\\entities.csproj",
+        "projectName": "entities",
+        "projectPath": "C:\\Users\\maide\\source\\repos\\WebApplication2\\bsStoreApp\\entities\\entities.csproj",
+        "packagesPath": "C:\\Users\\maide\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\maide\\source\\repos\\WebApplication2\\bsStoreApp\\entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\maide\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\maide\\source\\repos\\WebApplication2\\bsStoreApp\\repositories\\repositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\maide\\source\\repos\\WebApplication2\\bsStoreApp\\repositories\\repositories.csproj",
+        "projectName": "repositories",
+        "projectPath": "C:\\Users\\maide\\source\\repos\\WebApplication2\\bsStoreApp\\repositories\\repositories.csproj",
+        "packagesPath": "C:\\Users\\maide\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\maide\\source\\repos\\WebApplication2\\bsStoreApp\\repositories\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\maide\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\maide\\source\\repos\\WebApplication2\\bsStoreApp\\entities\\entities.csproj": {
+                "projectPath": "C:\\Users\\maide\\source\\repos\\WebApplication2\\bsStoreApp\\entities\\entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\maide\\source\\repos\\WebApplication2\\bsStoreApp\\services\\services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\maide\\source\\repos\\WebApplication2\\bsStoreApp\\services\\services.csproj",
+        "projectName": "services",
+        "projectPath": "C:\\Users\\maide\\source\\repos\\WebApplication2\\bsStoreApp\\services\\services.csproj",
+        "packagesPath": "C:\\Users\\maide\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\maide\\source\\repos\\WebApplication2\\bsStoreApp\\services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\maide\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\maide\\source\\repos\\WebApplication2\\bsStoreApp\\entities\\entities.csproj": {
+                "projectPath": "C:\\Users\\maide\\source\\repos\\WebApplication2\\bsStoreApp\\entities\\entities.csproj"
+              },
+              "C:\\Users\\maide\\source\\repos\\WebApplication2\\bsStoreApp\\repositories\\repositories.csproj": {
+                "projectPath": "C:\\Users\\maide\\source\\repos\\WebApplication2\\bsStoreApp\\repositories\\repositories.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\maide\source\repos\WebApplication2\bsStoreApp\repositories\obj\Debug\net6.0\repositories.csproj.AssemblyReference.cache
+C:\Users\maide\source\repos\WebApplication2\bsStoreApp\repositories\obj\Debug\net6.0\repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maide\source\repos\WebApplication2\bsStoreApp\repositories\obj\Debug\net6.0\repositories.AssemblyInfoInputs.cache
+C:\Users\maide\source\repos\WebApplication2\bsStoreApp\repositories\obj\Debug\net6.0\repositories.AssemblyInfo.cs
+C:\Users\maide\source\repos\WebApplication2\bsStoreApp\repositories\obj\Debug\net6.0\repositories.csproj.CoreCompileInputs.cache
+C:\Users\maide\source\repos\WebApplication2\bsStoreApp\repositories\bin\Debug\net6.0\repositories.deps.json
+C:\Users\maide\source\repos\WebApplication2\bsStoreApp\repositories\bin\Debug\net6.0\repositories.dll
+C:\Users\maide\source\repos\WebApplication2\bsStoreApp\repositories\bin\Debug\net6.0\repositories.pdb
+C:\Users\maide\source\repos\WebApplication2\bsStoreApp\repositories\bin\Debug\net6.0\entities.dll
+C:\Users\maide\source\repos\WebApplication2\bsStoreApp\repositories\bin\Debug\net6.0\entities.pdb
+C:\Users\maide\source\repos\WebApplication2\bsStoreApp\repositories\obj\Debug\net6.0\repositories.csproj.CopyComplete
+C:\Users\maide\source\repos\WebApplication2\bsStoreApp\repositories\obj\Debug\net6.0\repositories.dll
+C:\Users\maide\source\repos\WebApplication2\bsStoreApp\repositories\obj\Debug\net6.0\refint\repositories.dll
+C:\Users\maide\source\repos\WebApplication2\bsStoreApp\repositories\obj\Debug\net6.0\repositories.pdb
+C:\Users\maide\source\repos\WebApplication2\bsStoreApp\repositories\obj\Debug\net6.0\ref\repositories.dll
